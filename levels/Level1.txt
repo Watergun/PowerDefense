@@ -1,7 +1,0 @@
-NAME Grasplateau
-DIFFICULTY 1
-COLORMAP ColorMap2.png
-BACKGROUND background.png
-START 190 -10
-POSTFIX .txt
-WAVES Wave1 Wave1*2 Wave1*2/2 Wave1*3/3 Wave1*5/5
