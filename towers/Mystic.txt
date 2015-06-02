@@ -1,0 +1,12 @@
+NAME Mystik
+ELEMENT 3
+RANGE 100
+FIRERATE 100
+DAMAGE 5
+COST 10
+IMAGE Mystic1.png
+SHOTIMAGE bullet_black.gif
+UPGRADE 1 100 150 10 20 Mystic2.png bullet_black.gif
+UPGRADE 2 150 200 20 40 Mystic3.png bullet_black.gif
+UPGRADE 3 200 200 30 100 Mystic4.png bullet_black.gif
+
