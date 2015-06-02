@@ -1,0 +1,14 @@
+VERSION 1.4
+JAR PowerDefense.jar
+IMAGES:
+td.jpg
+ColorMap2.png
+background.png
+bear.gif
+icon_sheep.gif
+acorn.png
+facebook_logo.png
+google_logo.gif
+lokalisten_logo.png
+twitter_logo.gif
+bullet_black.gif
